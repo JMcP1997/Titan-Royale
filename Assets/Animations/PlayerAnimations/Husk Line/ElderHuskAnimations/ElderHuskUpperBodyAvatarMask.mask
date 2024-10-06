@@ -1,0 +1,111 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!319 &31900000
+AvatarMask:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: ElderHuskUpperBodyAvatarMask
+  m_Mask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+  m_Elements:
+  - m_Path: 
+    m_Weight: 1
+  - m_Path: Elder Husk
+    m_Weight: 0
+  - m_Path: Elder_Husk_Rig
+    m_Weight: 0
+  - m_Path: Elder_Husk_Rig/HeadBottom
+    m_Weight: 1
+  - m_Path: Elder_Husk_Rig/HeadBottom/Head
+    m_Weight: 1
+  - m_Path: Elder_Husk_Rig/HeadBottom/Head/HeadTop
+    m_Weight: 1
+  - m_Path: Elder_Husk_Rig/HeadBottom/Head/HeadTop/HeadTop_end
+    m_Weight: 1
+  - m_Path: Elder_Husk_Rig/Shoulder_L
+    m_Weight: 1
+  - m_Path: Elder_Husk_Rig/Shoulder_L/Arm_1
+    m_Weight: 1
+  - m_Path: Elder_Husk_Rig/Shoulder_L/Arm_1/Elbow_L
+    m_Weight: 1
+  - m_Path: Elder_Husk_Rig/Shoulder_L/Arm_1/Elbow_L/Arm_L
+    m_Weight: 1
+  - m_Path: Elder_Husk_Rig/Shoulder_L/Arm_1/Elbow_L/Arm_L/Fist_L
+    m_Weight: 1
+  - m_Path: Elder_Husk_Rig/Shoulder_L/Arm_1/Elbow_L/Arm_L/Fist_L/FingerA1_L
+    m_Weight: 1
+  - m_Path: Elder_Husk_Rig/Shoulder_L/Arm_1/Elbow_L/Arm_L/Fist_L/FingerA1_L/FingerA2_L
+    m_Weight: 1
+  - m_Path: Elder_Husk_Rig/Shoulder_L/Arm_1/Elbow_L/Arm_L/Fist_L/FingerA1_L/FingerA2_L/FingerA2_L_end
+    m_Weight: 1
+  - m_Path: Elder_Husk_Rig/Shoulder_L/Arm_1/Elbow_L/Arm_L/Fist_L/FingerB1_L
+    m_Weight: 1
+  - m_Path: Elder_Husk_Rig/Shoulder_L/Arm_1/Elbow_L/Arm_L/Fist_L/FingerB1_L/FingerB2_L
+    m_Weight: 1
+  - m_Path: Elder_Husk_Rig/Shoulder_L/Arm_1/Elbow_L/Arm_L/Fist_L/FingerB1_L/FingerB2_L/FingerB2_L_end
+    m_Weight: 1
+  - m_Path: Elder_Husk_Rig/Shoulder_L/Arm_1/Elbow_L/Arm_L/Fist_L/FingerC1_L
+    m_Weight: 1
+  - m_Path: Elder_Husk_Rig/Shoulder_L/Arm_1/Elbow_L/Arm_L/Fist_L/FingerC1_L/FingerC2_L
+    m_Weight: 1
+  - m_Path: Elder_Husk_Rig/Shoulder_L/Arm_1/Elbow_L/Arm_L/Fist_L/FingerC1_L/FingerC2_L/FingerC2_L_end
+    m_Weight: 1
+  - m_Path: Elder_Husk_Rig/Shoulder_R
+    m_Weight: 1
+  - m_Path: Elder_Husk_Rig/Shoulder_R/Arm_R
+    m_Weight: 1
+  - m_Path: Elder_Husk_Rig/Shoulder_R/Arm_R/Elbow_R
+    m_Weight: 1
+  - m_Path: Elder_Husk_Rig/Shoulder_R/Arm_R/Elbow_R/Forearm_R
+    m_Weight: 1
+  - m_Path: Elder_Husk_Rig/Shoulder_R/Arm_R/Elbow_R/Forearm_R/Fist_R
+    m_Weight: 1
+  - m_Path: Elder_Husk_Rig/Shoulder_R/Arm_R/Elbow_R/Forearm_R/Fist_R/FingerA1_R
+    m_Weight: 1
+  - m_Path: Elder_Husk_Rig/Shoulder_R/Arm_R/Elbow_R/Forearm_R/Fist_R/FingerA1_R/FingerA2_R
+    m_Weight: 1
+  - m_Path: Elder_Husk_Rig/Shoulder_R/Arm_R/Elbow_R/Forearm_R/Fist_R/FingerA1_R/FingerA2_R/FingerA2_R_end
+    m_Weight: 1
+  - m_Path: Elder_Husk_Rig/Shoulder_R/Arm_R/Elbow_R/Forearm_R/Fist_R/FingerB1_R
+    m_Weight: 1
+  - m_Path: Elder_Husk_Rig/Shoulder_R/Arm_R/Elbow_R/Forearm_R/Fist_R/FingerB1_R/FingerB2_R
+    m_Weight: 1
+  - m_Path: Elder_Husk_Rig/Shoulder_R/Arm_R/Elbow_R/Forearm_R/Fist_R/FingerB1_R/FingerB2_R/FingerB2_R_end
+    m_Weight: 1
+  - m_Path: Elder_Husk_Rig/Shoulder_R/Arm_R/Elbow_R/Forearm_R/Fist_R/FingerC1_R
+    m_Weight: 1
+  - m_Path: Elder_Husk_Rig/Shoulder_R/Arm_R/Elbow_R/Forearm_R/Fist_R/FingerC1_R/FingerC2_R
+    m_Weight: 1
+  - m_Path: Elder_Husk_Rig/Shoulder_R/Arm_R/Elbow_R/Forearm_R/Fist_R/FingerC1_R/FingerC2_R/FingerC2_R_end
+    m_Weight: 1
+  - m_Path: Elder_Husk_Rig/Spine_1
+    m_Weight: 1
+  - m_Path: Elder_Husk_Rig/Spine_1/Spine_2
+    m_Weight: 1
+  - m_Path: Elder_Husk_Rig/Spine_1/Spine_2/Hip_L
+    m_Weight: 1
+  - m_Path: Elder_Husk_Rig/Spine_1/Spine_2/Hip_L/UpperLeg_L
+    m_Weight: 0
+  - m_Path: Elder_Husk_Rig/Spine_1/Spine_2/Hip_L/UpperLeg_L/Leg_L
+    m_Weight: 0
+  - m_Path: Elder_Husk_Rig/Spine_1/Spine_2/Hip_L/UpperLeg_L/Leg_L/Foot_L
+    m_Weight: 0
+  - m_Path: Elder_Husk_Rig/Spine_1/Spine_2/Hip_L/UpperLeg_L/Leg_L/Foot_L/Foot_L_end
+    m_Weight: 0
+  - m_Path: Elder_Husk_Rig/Spine_1/Spine_2/Hip_R
+    m_Weight: 1
+  - m_Path: Elder_Husk_Rig/Spine_1/Spine_2/Hip_R/UpperLeg_R
+    m_Weight: 0
+  - m_Path: Elder_Husk_Rig/Spine_1/Spine_2/Hip_R/UpperLeg_R/Leg_R
+    m_Weight: 0
+  - m_Path: Elder_Husk_Rig/Spine_1/Spine_2/Hip_R/UpperLeg_R/Leg_R/Foot_R
+    m_Weight: 0
+  - m_Path: Elder_Husk_Rig/Spine_1/Spine_2/Hip_R/UpperLeg_R/Leg_R/Foot_R/Foot_R_end
+    m_Weight: 0
+  - m_Path: ElderArmVines
+    m_Weight: 0
+  - m_Path: ElderLeaves
+    m_Weight: 0
+  - m_Path: ElderLegVine
+    m_Weight: 0

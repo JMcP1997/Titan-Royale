@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!319 &31900000
+AvatarMask:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: HuskUpperBodyAvatarMask
+  m_Mask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+  m_Elements:
+  - m_Path: 
+    m_Weight: 1
+  - m_Path: Husk
+    m_Weight: 0
+  - m_Path: Husk_Rig
+    m_Weight: 0
+  - m_Path: Husk_Rig/Hip_L
+    m_Weight: 1
+  - m_Path: Husk_Rig/Hip_L/UpperLeg_L
+    m_Weight: 0
+  - m_Path: Husk_Rig/Hip_L/UpperLeg_L/Leg_L
+    m_Weight: 0
+  - m_Path: Husk_Rig/Hip_L/UpperLeg_L/Leg_L/Foot_L
+    m_Weight: 0
+  - m_Path: Husk_Rig/Hip_L/UpperLeg_L/Leg_L/Foot_L/Foot_L_end
+    m_Weight: 0
+  - m_Path: Husk_Rig/Hip_R
+    m_Weight: 1
+  - m_Path: Husk_Rig/Hip_R/UpperLeg_R
+    m_Weight: 0
+  - m_Path: Husk_Rig/Hip_R/UpperLeg_R/Leg_R
+    m_Weight: 0
+  - m_Path: Husk_Rig/Hip_R/UpperLeg_R/Leg_R/Foot_R
+    m_Weight: 0
+  - m_Path: Husk_Rig/Hip_R/UpperLeg_R/Leg_R/Foot_R/Foot_R_end
+    m_Weight: 0
+  - m_Path: Husk_Rig/Torso
+    m_Weight: 1
+  - m_Path: Husk_Rig/Torso/Neck
+    m_Weight: 1
+  - m_Path: Husk_Rig/Torso/Neck/Head
+    m_Weight: 1
+  - m_Path: Husk_Rig/Torso/Neck/Head/Head_end
+    m_Weight: 1
+  - m_Path: Husk_Rig/Torso/Shoulder_L
+    m_Weight: 1
+  - m_Path: Husk_Rig/Torso/Shoulder_L/Arm_L
+    m_Weight: 1
+  - m_Path: Husk_Rig/Torso/Shoulder_L/Arm_L/Forearm_L
+    m_Weight: 1
+  - m_Path: Husk_Rig/Torso/Shoulder_L/Arm_L/Forearm_L/Fist_L
+    m_Weight: 1
+  - m_Path: Husk_Rig/Torso/Shoulder_L/Arm_L/Forearm_L/Fist_L/Fist_L_end
+    m_Weight: 1
+  - m_Path: Husk_Rig/Torso/Shoulder_R
+    m_Weight: 1
+  - m_Path: Husk_Rig/Torso/Shoulder_R/Arm_R
+    m_Weight: 1
+  - m_Path: Husk_Rig/Torso/Shoulder_R/Arm_R/Forearm_R
+    m_Weight: 1
+  - m_Path: Husk_Rig/Torso/Shoulder_R/Arm_R/Forearm_R/Fist_R
+    m_Weight: 1
+  - m_Path: Husk_Rig/Torso/Shoulder_R/Arm_R/Forearm_R/Fist_R/Fist_R_end
+    m_Weight: 1

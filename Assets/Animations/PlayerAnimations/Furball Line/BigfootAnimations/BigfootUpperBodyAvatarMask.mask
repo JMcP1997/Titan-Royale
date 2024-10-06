@@ -1,0 +1,87 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!319 &31900000
+AvatarMask:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: BigfootUpperBodyAvatarMask
+  m_Mask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+  m_Elements:
+  - m_Path: 
+    m_Weight: 1
+  - m_Path: Big_Foot
+    m_Weight: 0
+  - m_Path: Big_Foot_Rig
+    m_Weight: 0
+  - m_Path: Big_Foot_Rig/Spine_1
+    m_Weight: 1
+  - m_Path: Big_Foot_Rig/Spine_1/Spine_2
+    m_Weight: 1
+  - m_Path: Big_Foot_Rig/Spine_1/Spine_2/Hip_L
+    m_Weight: 0
+  - m_Path: Big_Foot_Rig/Spine_1/Spine_2/Hip_L/UpperLeg_L
+    m_Weight: 0
+  - m_Path: Big_Foot_Rig/Spine_1/Spine_2/Hip_L/UpperLeg_L/Leg_L
+    m_Weight: 0
+  - m_Path: Big_Foot_Rig/Spine_1/Spine_2/Hip_L/UpperLeg_L/Leg_L/Foot1_L
+    m_Weight: 0
+  - m_Path: Big_Foot_Rig/Spine_1/Spine_2/Hip_L/UpperLeg_L/Leg_L/Foot1_L/Foot2_L
+    m_Weight: 0
+  - m_Path: Big_Foot_Rig/Spine_1/Spine_2/Hip_L/UpperLeg_L/Leg_L/Foot1_L/Foot2_L/Foot2_L_end
+    m_Weight: 0
+  - m_Path: Big_Foot_Rig/Spine_1/Spine_2/Hip_R
+    m_Weight: 0
+  - m_Path: Big_Foot_Rig/Spine_1/Spine_2/Hip_R/UpperLeg_R
+    m_Weight: 0
+  - m_Path: Big_Foot_Rig/Spine_1/Spine_2/Hip_R/UpperLeg_R/Leg_R
+    m_Weight: 0
+  - m_Path: Big_Foot_Rig/Spine_1/Spine_2/Hip_R/UpperLeg_R/Leg_R/Foot1_R
+    m_Weight: 0
+  - m_Path: Big_Foot_Rig/Spine_1/Spine_2/Hip_R/UpperLeg_R/Leg_R/Foot1_R/Foot2_R
+    m_Weight: 0
+  - m_Path: Big_Foot_Rig/Spine_1/Spine_2/Hip_R/UpperLeg_R/Leg_R/Foot1_R/Foot2_R/Foot2_R_end
+    m_Weight: 0
+  - m_Path: Big_Foot_Rig/Torso
+    m_Weight: 1
+  - m_Path: Big_Foot_Rig/Torso/Bone.003
+    m_Weight: 1
+  - m_Path: Big_Foot_Rig/Torso/Bone.003/Bone.003_end
+    m_Weight: 1
+  - m_Path: Big_Foot_Rig/Torso/Neck
+    m_Weight: 1
+  - m_Path: Big_Foot_Rig/Torso/Neck/Head
+    m_Weight: 1
+  - m_Path: Big_Foot_Rig/Torso/Neck/Head/Head_end
+    m_Weight: 1
+  - m_Path: Big_Foot_Rig/Torso/Shoulder_L
+    m_Weight: 1
+  - m_Path: Big_Foot_Rig/Torso/Shoulder_L/Arm_L
+    m_Weight: 1
+  - m_Path: Big_Foot_Rig/Torso/Shoulder_L/Arm_L/Forearm_L
+    m_Weight: 1
+  - m_Path: Big_Foot_Rig/Torso/Shoulder_L/Arm_L/Forearm_L/Fist_L
+    m_Weight: 1
+  - m_Path: Big_Foot_Rig/Torso/Shoulder_L/Arm_L/Forearm_L/Fist_L/Fist_L_end
+    m_Weight: 1
+  - m_Path: Big_Foot_Rig/Torso/Shoulder_R
+    m_Weight: 1
+  - m_Path: Big_Foot_Rig/Torso/Shoulder_R/Arm_R
+    m_Weight: 1
+  - m_Path: Big_Foot_Rig/Torso/Shoulder_R/Arm_R/Forearm_R
+    m_Weight: 1
+  - m_Path: Big_Foot_Rig/Torso/Shoulder_R/Arm_R/Forearm_R/Fist_R
+    m_Weight: 1
+  - m_Path: Big_Foot_Rig/Torso/Shoulder_R/Arm_R/Forearm_R/Fist_R/Club_1
+    m_Weight: 1
+  - m_Path: Big_Foot_Rig/Torso/Shoulder_R/Arm_R/Forearm_R/Fist_R/Club_1/Club_1_end
+    m_Weight: 1
+  - m_Path: Big_Foot_Rig/Torso/Shoulder_R/Arm_R/Forearm_R/Fist_R/Club_2
+    m_Weight: 1
+  - m_Path: Big_Foot_Rig/Torso/Shoulder_R/Arm_R/Forearm_R/Fist_R/Club_2/Club_3
+    m_Weight: 1
+  - m_Path: Big_Foot_Rig/Torso/Shoulder_R/Arm_R/Forearm_R/Fist_R/Club_2/Club_3/Club_4
+    m_Weight: 1
+  - m_Path: Big_Foot_Rig/Torso/Shoulder_R/Arm_R/Forearm_R/Fist_R/Club_2/Club_3/Club_4/Club_4_end
+    m_Weight: 1

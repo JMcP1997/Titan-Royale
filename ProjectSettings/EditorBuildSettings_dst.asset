@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/PreGame Scenes/PreGameLobby.unity
+    guid: 3df9bed92aa43a841a9a61174d92a331
+  - enabled: 1
+    path: Assets/Scenes/TestingScene.unity
+    guid: 2c137013ce0b6c44ba2d075b3cc3deef
+  - enabled: 1
+    path: Assets/Scenes/PlayerArena.unity
+    guid: 9af72b3f998a4db4fa902e6eb829b8f2
+  m_configObjects: {}

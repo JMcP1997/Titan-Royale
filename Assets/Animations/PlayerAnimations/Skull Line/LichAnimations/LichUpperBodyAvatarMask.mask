@@ -1,0 +1,199 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!319 &31900000
+AvatarMask:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: LichUpperBodyAvatarMask
+  m_Mask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+  m_Elements:
+  - m_Path: 
+    m_Weight: 1
+  - m_Path: Cape_Medal
+    m_Weight: 1
+  - m_Path: Crown
+    m_Weight: 1
+  - m_Path: Lich
+    m_Weight: 1
+  - m_Path: Lich_Rig
+    m_Weight: 1
+  - m_Path: Lich_Rig/Spine_3
+    m_Weight: 0
+  - m_Path: Lich_Rig/Spine_3/Spine_2
+    m_Weight: 0
+  - m_Path: Lich_Rig/Spine_3/Spine_2/Cape_1
+    m_Weight: 0
+  - m_Path: Lich_Rig/Spine_3/Spine_2/Cape_1/Cape_2
+    m_Weight: 0
+  - m_Path: Lich_Rig/Spine_3/Spine_2/Cape_1/Cape_2/Cape_3
+    m_Weight: 0
+  - m_Path: Lich_Rig/Spine_3/Spine_2/Cape_1/Cape_2/Cape_3/Cape_4
+    m_Weight: 0
+  - m_Path: Lich_Rig/Spine_3/Spine_2/Cape_1/Cape_2/Cape_3/Cape_4/Cape_4_end
+    m_Weight: 0
+  - m_Path: Lich_Rig/Spine_3/Spine_2/Shoulder_L
+    m_Weight: 1
+  - m_Path: Lich_Rig/Spine_3/Spine_2/Shoulder_L/Arm_L
+    m_Weight: 1
+  - m_Path: Lich_Rig/Spine_3/Spine_2/Shoulder_L/Arm_L/Forearm_L
+    m_Weight: 1
+  - m_Path: Lich_Rig/Spine_3/Spine_2/Shoulder_L/Arm_L/Forearm_L/Hand_L
+    m_Weight: 1
+  - m_Path: Lich_Rig/Spine_3/Spine_2/Shoulder_L/Arm_L/Forearm_L/Hand_L/Index1_L
+    m_Weight: 1
+  - m_Path: Lich_Rig/Spine_3/Spine_2/Shoulder_L/Arm_L/Forearm_L/Hand_L/Index1_L/Index2_L
+    m_Weight: 1
+  - m_Path: Lich_Rig/Spine_3/Spine_2/Shoulder_L/Arm_L/Forearm_L/Hand_L/Index1_L/Index2_L/Index3_L
+    m_Weight: 1
+  - m_Path: Lich_Rig/Spine_3/Spine_2/Shoulder_L/Arm_L/Forearm_L/Hand_L/Index1_L/Index2_L/Index3_L/Index4_L
+    m_Weight: 1
+  - m_Path: Lich_Rig/Spine_3/Spine_2/Shoulder_L/Arm_L/Forearm_L/Hand_L/Index1_L/Index2_L/Index3_L/Index4_L/Index4_L_end
+    m_Weight: 1
+  - m_Path: Lich_Rig/Spine_3/Spine_2/Shoulder_L/Arm_L/Forearm_L/Hand_L/Middle1_L
+    m_Weight: 1
+  - m_Path: Lich_Rig/Spine_3/Spine_2/Shoulder_L/Arm_L/Forearm_L/Hand_L/Middle1_L/Middle2_L
+    m_Weight: 1
+  - m_Path: Lich_Rig/Spine_3/Spine_2/Shoulder_L/Arm_L/Forearm_L/Hand_L/Middle1_L/Middle2_L/Middle3_L
+    m_Weight: 1
+  - m_Path: Lich_Rig/Spine_3/Spine_2/Shoulder_L/Arm_L/Forearm_L/Hand_L/Middle1_L/Middle2_L/Middle3_L/Middle4_L
+    m_Weight: 1
+  - m_Path: Lich_Rig/Spine_3/Spine_2/Shoulder_L/Arm_L/Forearm_L/Hand_L/Middle1_L/Middle2_L/Middle3_L/Middle4_L/Middle4_L_end
+    m_Weight: 1
+  - m_Path: Lich_Rig/Spine_3/Spine_2/Shoulder_L/Arm_L/Forearm_L/Hand_L/Pinky1_L
+    m_Weight: 1
+  - m_Path: Lich_Rig/Spine_3/Spine_2/Shoulder_L/Arm_L/Forearm_L/Hand_L/Pinky1_L/Pinky2_L
+    m_Weight: 1
+  - m_Path: Lich_Rig/Spine_3/Spine_2/Shoulder_L/Arm_L/Forearm_L/Hand_L/Pinky1_L/Pinky2_L/Pinky3_L
+    m_Weight: 1
+  - m_Path: Lich_Rig/Spine_3/Spine_2/Shoulder_L/Arm_L/Forearm_L/Hand_L/Pinky1_L/Pinky2_L/Pinky3_L/Pinky4_L
+    m_Weight: 1
+  - m_Path: Lich_Rig/Spine_3/Spine_2/Shoulder_L/Arm_L/Forearm_L/Hand_L/Pinky1_L/Pinky2_L/Pinky3_L/Pinky4_L/Pinky4_L_end
+    m_Weight: 1
+  - m_Path: Lich_Rig/Spine_3/Spine_2/Shoulder_L/Arm_L/Forearm_L/Hand_L/Ring1_L
+    m_Weight: 1
+  - m_Path: Lich_Rig/Spine_3/Spine_2/Shoulder_L/Arm_L/Forearm_L/Hand_L/Ring1_L/Ring2_L
+    m_Weight: 1
+  - m_Path: Lich_Rig/Spine_3/Spine_2/Shoulder_L/Arm_L/Forearm_L/Hand_L/Ring1_L/Ring2_L/Ring3_L
+    m_Weight: 1
+  - m_Path: Lich_Rig/Spine_3/Spine_2/Shoulder_L/Arm_L/Forearm_L/Hand_L/Ring1_L/Ring2_L/Ring3_L/Ring4_L
+    m_Weight: 1
+  - m_Path: Lich_Rig/Spine_3/Spine_2/Shoulder_L/Arm_L/Forearm_L/Hand_L/Ring1_L/Ring2_L/Ring3_L/Ring4_L/Ring4_L_end
+    m_Weight: 1
+  - m_Path: Lich_Rig/Spine_3/Spine_2/Shoulder_L/Arm_L/Forearm_L/Hand_L/Thumb1_L
+    m_Weight: 1
+  - m_Path: Lich_Rig/Spine_3/Spine_2/Shoulder_L/Arm_L/Forearm_L/Hand_L/Thumb1_L/Thumb2_L
+    m_Weight: 1
+  - m_Path: Lich_Rig/Spine_3/Spine_2/Shoulder_L/Arm_L/Forearm_L/Hand_L/Thumb1_L/Thumb2_L/Thumb3_L
+    m_Weight: 1
+  - m_Path: Lich_Rig/Spine_3/Spine_2/Shoulder_L/Arm_L/Forearm_L/Hand_L/Thumb1_L/Thumb2_L/Thumb3_L/Thumb4_L
+    m_Weight: 1
+  - m_Path: Lich_Rig/Spine_3/Spine_2/Shoulder_L/Arm_L/Forearm_L/Hand_L/Thumb1_L/Thumb2_L/Thumb3_L/Thumb4_L/Thumb4_L_end
+    m_Weight: 1
+  - m_Path: Lich_Rig/Spine_3/Spine_2/Shoulder_R
+    m_Weight: 1
+  - m_Path: Lich_Rig/Spine_3/Spine_2/Shoulder_R/Arm_R
+    m_Weight: 1
+  - m_Path: Lich_Rig/Spine_3/Spine_2/Shoulder_R/Arm_R/Forearm_R
+    m_Weight: 1
+  - m_Path: Lich_Rig/Spine_3/Spine_2/Shoulder_R/Arm_R/Forearm_R/Hand_R
+    m_Weight: 1
+  - m_Path: Lich_Rig/Spine_3/Spine_2/Shoulder_R/Arm_R/Forearm_R/Hand_R/Index1_R
+    m_Weight: 1
+  - m_Path: Lich_Rig/Spine_3/Spine_2/Shoulder_R/Arm_R/Forearm_R/Hand_R/Index1_R/Index2_R
+    m_Weight: 1
+  - m_Path: Lich_Rig/Spine_3/Spine_2/Shoulder_R/Arm_R/Forearm_R/Hand_R/Index1_R/Index2_R/Index3_R
+    m_Weight: 1
+  - m_Path: Lich_Rig/Spine_3/Spine_2/Shoulder_R/Arm_R/Forearm_R/Hand_R/Index1_R/Index2_R/Index3_R/Index4_R
+    m_Weight: 1
+  - m_Path: Lich_Rig/Spine_3/Spine_2/Shoulder_R/Arm_R/Forearm_R/Hand_R/Index1_R/Index2_R/Index3_R/Index4_R/Index4_R_end
+    m_Weight: 1
+  - m_Path: Lich_Rig/Spine_3/Spine_2/Shoulder_R/Arm_R/Forearm_R/Hand_R/Middle1_R
+    m_Weight: 1
+  - m_Path: Lich_Rig/Spine_3/Spine_2/Shoulder_R/Arm_R/Forearm_R/Hand_R/Middle1_R/Middle2_R
+    m_Weight: 1
+  - m_Path: Lich_Rig/Spine_3/Spine_2/Shoulder_R/Arm_R/Forearm_R/Hand_R/Middle1_R/Middle2_R/Middle3_R
+    m_Weight: 1
+  - m_Path: Lich_Rig/Spine_3/Spine_2/Shoulder_R/Arm_R/Forearm_R/Hand_R/Middle1_R/Middle2_R/Middle3_R/Middle4_R
+    m_Weight: 1
+  - m_Path: Lich_Rig/Spine_3/Spine_2/Shoulder_R/Arm_R/Forearm_R/Hand_R/Middle1_R/Middle2_R/Middle3_R/Middle4_R/Middle4_R_end
+    m_Weight: 1
+  - m_Path: Lich_Rig/Spine_3/Spine_2/Shoulder_R/Arm_R/Forearm_R/Hand_R/Pinky1_R
+    m_Weight: 1
+  - m_Path: Lich_Rig/Spine_3/Spine_2/Shoulder_R/Arm_R/Forearm_R/Hand_R/Pinky1_R/Pinky2_R
+    m_Weight: 1
+  - m_Path: Lich_Rig/Spine_3/Spine_2/Shoulder_R/Arm_R/Forearm_R/Hand_R/Pinky1_R/Pinky2_R/Pinky3_R
+    m_Weight: 1
+  - m_Path: Lich_Rig/Spine_3/Spine_2/Shoulder_R/Arm_R/Forearm_R/Hand_R/Pinky1_R/Pinky2_R/Pinky3_R/Pinky4_R
+    m_Weight: 1
+  - m_Path: Lich_Rig/Spine_3/Spine_2/Shoulder_R/Arm_R/Forearm_R/Hand_R/Pinky1_R/Pinky2_R/Pinky3_R/Pinky4_R/Pinky4_R_end
+    m_Weight: 1
+  - m_Path: Lich_Rig/Spine_3/Spine_2/Shoulder_R/Arm_R/Forearm_R/Hand_R/Ring1_R
+    m_Weight: 1
+  - m_Path: Lich_Rig/Spine_3/Spine_2/Shoulder_R/Arm_R/Forearm_R/Hand_R/Ring1_R/Ring2_R
+    m_Weight: 1
+  - m_Path: Lich_Rig/Spine_3/Spine_2/Shoulder_R/Arm_R/Forearm_R/Hand_R/Ring1_R/Ring2_R/Ring3_R
+    m_Weight: 1
+  - m_Path: Lich_Rig/Spine_3/Spine_2/Shoulder_R/Arm_R/Forearm_R/Hand_R/Ring1_R/Ring2_R/Ring3_R/Ring4_R
+    m_Weight: 1
+  - m_Path: Lich_Rig/Spine_3/Spine_2/Shoulder_R/Arm_R/Forearm_R/Hand_R/Ring1_R/Ring2_R/Ring3_R/Ring4_R/Ring4_R_end
+    m_Weight: 1
+  - m_Path: Lich_Rig/Spine_3/Spine_2/Shoulder_R/Arm_R/Forearm_R/Hand_R/Scythe_2
+    m_Weight: 1
+  - m_Path: Lich_Rig/Spine_3/Spine_2/Shoulder_R/Arm_R/Forearm_R/Hand_R/Scythe_2/Scythe_1
+    m_Weight: 1
+  - m_Path: Lich_Rig/Spine_3/Spine_2/Shoulder_R/Arm_R/Forearm_R/Hand_R/Scythe_2/Scythe_1/Scythe_1_end
+    m_Weight: 1
+  - m_Path: Lich_Rig/Spine_3/Spine_2/Shoulder_R/Arm_R/Forearm_R/Hand_R/Scythe_3
+    m_Weight: 1
+  - m_Path: Lich_Rig/Spine_3/Spine_2/Shoulder_R/Arm_R/Forearm_R/Hand_R/Scythe_3/Scythe_4
+    m_Weight: 1
+  - m_Path: Lich_Rig/Spine_3/Spine_2/Shoulder_R/Arm_R/Forearm_R/Hand_R/Scythe_3/Scythe_4/Scythe_5
+    m_Weight: 1
+  - m_Path: Lich_Rig/Spine_3/Spine_2/Shoulder_R/Arm_R/Forearm_R/Hand_R/Scythe_3/Scythe_4/Scythe_5/Scythe_6
+    m_Weight: 1
+  - m_Path: Lich_Rig/Spine_3/Spine_2/Shoulder_R/Arm_R/Forearm_R/Hand_R/Scythe_3/Scythe_4/Scythe_5/Scythe_6/Scythe_7
+    m_Weight: 1
+  - m_Path: Lich_Rig/Spine_3/Spine_2/Shoulder_R/Arm_R/Forearm_R/Hand_R/Scythe_3/Scythe_4/Scythe_5/Scythe_6/Scythe_7/Scythe_8
+    m_Weight: 1
+  - m_Path: Lich_Rig/Spine_3/Spine_2/Shoulder_R/Arm_R/Forearm_R/Hand_R/Scythe_3/Scythe_4/Scythe_5/Scythe_6/Scythe_7/Scythe_8/Scythe_9
+    m_Weight: 1
+  - m_Path: Lich_Rig/Spine_3/Spine_2/Shoulder_R/Arm_R/Forearm_R/Hand_R/Scythe_3/Scythe_4/Scythe_5/Scythe_6/Scythe_7/Scythe_8/Scythe_9/Scythe_10
+    m_Weight: 1
+  - m_Path: Lich_Rig/Spine_3/Spine_2/Shoulder_R/Arm_R/Forearm_R/Hand_R/Scythe_3/Scythe_4/Scythe_5/Scythe_6/Scythe_7/Scythe_8/Scythe_9/Scythe_10/Scythe_11
+    m_Weight: 1
+  - m_Path: Lich_Rig/Spine_3/Spine_2/Shoulder_R/Arm_R/Forearm_R/Hand_R/Scythe_3/Scythe_4/Scythe_5/Scythe_6/Scythe_7/Scythe_8/Scythe_9/Scythe_10/Scythe_11/Scythe_11_end
+    m_Weight: 1
+  - m_Path: Lich_Rig/Spine_3/Spine_2/Shoulder_R/Arm_R/Forearm_R/Hand_R/Thumb1_R
+    m_Weight: 1
+  - m_Path: Lich_Rig/Spine_3/Spine_2/Shoulder_R/Arm_R/Forearm_R/Hand_R/Thumb1_R/Thumb2_R
+    m_Weight: 1
+  - m_Path: Lich_Rig/Spine_3/Spine_2/Shoulder_R/Arm_R/Forearm_R/Hand_R/Thumb1_R/Thumb2_R/Thumb3_R
+    m_Weight: 1
+  - m_Path: Lich_Rig/Spine_3/Spine_2/Shoulder_R/Arm_R/Forearm_R/Hand_R/Thumb1_R/Thumb2_R/Thumb3_R/Thumb4_R
+    m_Weight: 1
+  - m_Path: Lich_Rig/Spine_3/Spine_2/Shoulder_R/Arm_R/Forearm_R/Hand_R/Thumb1_R/Thumb2_R/Thumb3_R/Thumb4_R/Thumb4_R_end
+    m_Weight: 1
+  - m_Path: Lich_Rig/Spine_3/Spine_2/Spine_1
+    m_Weight: 1
+  - m_Path: Lich_Rig/Spine_3/Spine_2/Spine_1/Neck
+    m_Weight: 1
+  - m_Path: Lich_Rig/Spine_3/Spine_2/Spine_1/Neck/Head
+    m_Weight: 1
+  - m_Path: Lich_Rig/Spine_3/Spine_2/Spine_1/Neck/Head/Hood_1
+    m_Weight: 0
+  - m_Path: Lich_Rig/Spine_3/Spine_2/Spine_1/Neck/Head/Hood_1/Hood_2
+    m_Weight: 0
+  - m_Path: Lich_Rig/Spine_3/Spine_2/Spine_1/Neck/Head/Hood_1/Hood_2/Hood_2_end
+    m_Weight: 0
+  - m_Path: Lich_Rig/Spine_4
+    m_Weight: 0
+  - m_Path: Lich_Rig/Spine_4/Spine_5
+    m_Weight: 0
+  - m_Path: Lich_Rig/Spine_4/Spine_5/Spine_6
+    m_Weight: 0
+  - m_Path: Lich_Rig/Spine_4/Spine_5/Spine_6/Spine_7
+    m_Weight: 0
+  - m_Path: Lich_Rig/Spine_4/Spine_5/Spine_6/Spine_7/Spine_7_end
+    m_Weight: 0

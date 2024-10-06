@@ -1,0 +1,122 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9f3758f8f58fdef43803eb9be1df0608, type: 3}
+  m_Name: PhotonServerSettings
+  m_EditorClassIdentifier: 
+  AppSettings:
+    AppIdRealtime: 39b9ca91-64b5-4dcf-9d2c-549823e786f6
+    AppIdFusion: 
+    AppIdChat: 
+    AppIdVoice: 
+    AppVersion: 
+    UseNameServer: 1
+    FixedRegion: us
+    Server: 
+    Port: 0
+    ProxyServer: 
+    Protocol: 0
+    EnableProtocolFallback: 1
+    AuthMode: 0
+    EnableLobbyStatistics: 0
+    NetworkLogging: 1
+  DevRegion: eu
+  PunLogging: 2
+  EnableSupportLogger: 0
+  RunInBackground: 1
+  StartInOfflineMode: 0
+  RpcList:
+  - ClickRpc
+  - DestroyRpc
+  - DestroySpaceship
+  - Fire
+  - RespawnSpaceship
+  - RPC_TakeDamage
+  - RPC_Evolve
+  - RPC_GainExperience
+  - RPC_HealDamage
+  - RPC_UpdatePlayerModel
+  - RPC_Die
+  - RPC_ChangeCharacterModel
+  - RPC_ChangeCharacterAnimator
+  - RPC_UpdateStats
+  - RPC_UpdateEvolutionData
+  - DestroyShockwave
+  - StartExpansion
+  - RPC_UpdateCharacterAnimator
+  - RPC_UpdateMoveset
+  - CheckIndex
+  - RPC_OnAttackEnd
+  - RPC_OnAttackStart
+  - RPC_OnAbilityCompleted
+  - RPC_StartAbility
+  - RPC_UpdatePlayerNameText
+  - RPC_OnPlayerDied
+  - ShockwaveExpansion
+  - MonsterController_PlayerDied
+  - RPC_SwitchFirstAttack
+  - RPC_Knockback
+  - RPC_ImmunityTimer
+  - RPC_AdjustHeight
+  - RPC_ClearDamageReduciton
+  - RPC_SetDamageReduction
+  - RPC_HealPlayer
+  - RPC_ClearDamageReduction
+  - RPC_CreatePlayerStats
+  - RPC_NPCTakeDamage
+  - RPC_UpdatePlayerHostility
+  - RPC_NPCHealDamage
+  - RPC_ToggleExperienceGiven
+  - RPC_SetFlockController
+  - RPC_SetTargetPlayer
+  - RPC_HandleSelectionOfFlockControllers
+  - RPC_ActivateRandomlySelectedFlockControllers
+  - RPC_ActivateFlockController
+  - RPC_SetFlockSize
+  - RPC_UpdateNPCMonsterList
+  - RPC_ReceiveRandomlySelectedFlockControllers
+  - RPC_RemoveNPCMonsterFromList
+  - RPC_DeleteNPC
+  - RPC_OnPlayerBasicAttack
+  - RPC_OnPlayerUsedAbility
+  - RPC_PlayDamagedSound
+  - RPC_UpdateSoundClips
+  - RPC_PlayDeathSound
+  - RPC_PlayAbilitySound_E
+  - RPC_PlayAbilitySound_Q
+  - RPC_ToggleRecentlyDamaged
+  - RPC_OnPlayerStunned
+  - RPC_Teleport
+  - RPC_SetCombatController
+  - RPC_SetProjectile
+  - RPC_CanBeStunned
+  - RPC_SetCanBeStunned
+  - RPC_RegisterImmunity
+  - RPC_ClearImmunity
+  - RPC_SetSpeed
+  - RPC_SetSphere
+  - RPC_AddCollider
+  - RPC_RemoveCollider
+  - RPC_PrepareProjectiles
+  - RPC_ReleaseProjectiles
+  - RPC_SetToggleReady
+  - RPC_SetColliderToIgnore
+  - RPC_PushSpiritBomb
+  - RPC_ToggleNameText
+  - RPC_ToggleBasicAttack
+  - RPC_ToggleEAbility
+  - RPC_ToggleQAbility
+  - RPC_HideNameText
+  - RPC_ShowNameText
+  - RPC_SwitchInvisibility
+  DisableAutoOpenWizard: 1
+  ShowSettings: 1
+  DevRegionSetOnce: 1

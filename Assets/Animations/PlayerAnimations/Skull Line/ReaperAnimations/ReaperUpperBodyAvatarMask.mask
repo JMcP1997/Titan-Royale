@@ -1,0 +1,169 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!319 &31900000
+AvatarMask:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: ReaperUpperBodyAvatarMask
+  m_Mask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+  m_Elements:
+  - m_Path: 
+    m_Weight: 1
+  - m_Path: Reaper
+    m_Weight: 0
+  - m_Path: Reaper_Rig
+    m_Weight: 1
+  - m_Path: Reaper_Rig/Head
+    m_Weight: 1
+  - m_Path: Reaper_Rig/Head/Hood_1
+    m_Weight: 1
+  - m_Path: Reaper_Rig/Head/Hood_1/Hood_2
+    m_Weight: 1
+  - m_Path: Reaper_Rig/Head/Hood_1/Hood_2/Hood_3
+    m_Weight: 1
+  - m_Path: Reaper_Rig/Head/Hood_1/Hood_2/Hood_3/Hood_3_end
+    m_Weight: 1
+  - m_Path: Reaper_Rig/Shoulder_L
+    m_Weight: 1
+  - m_Path: Reaper_Rig/Shoulder_L/Arm_L
+    m_Weight: 1
+  - m_Path: Reaper_Rig/Shoulder_L/Arm_L/Forearm_L
+    m_Weight: 1
+  - m_Path: Reaper_Rig/Shoulder_L/Arm_L/Forearm_L/CentralPalm_L
+    m_Weight: 1
+  - m_Path: Reaper_Rig/Shoulder_L/Arm_L/Forearm_L/CentralPalm_L/Middle1_L
+    m_Weight: 1
+  - m_Path: Reaper_Rig/Shoulder_L/Arm_L/Forearm_L/CentralPalm_L/Middle1_L/Middle2_L
+    m_Weight: 1
+  - m_Path: Reaper_Rig/Shoulder_L/Arm_L/Forearm_L/CentralPalm_L/Middle1_L/Middle2_L/Middle3_L
+    m_Weight: 1
+  - m_Path: Reaper_Rig/Shoulder_L/Arm_L/Forearm_L/CentralPalm_L/Middle1_L/Middle2_L/Middle3_L/Middle3_L_end
+    m_Weight: 1
+  - m_Path: Reaper_Rig/Shoulder_L/Arm_L/Forearm_L/CentralPalm_L/UpperPalmL_L
+    m_Weight: 1
+  - m_Path: Reaper_Rig/Shoulder_L/Arm_L/Forearm_L/CentralPalm_L/UpperPalmL_L/Ring1_L
+    m_Weight: 1
+  - m_Path: Reaper_Rig/Shoulder_L/Arm_L/Forearm_L/CentralPalm_L/UpperPalmL_L/Ring1_L/Ring2_L
+    m_Weight: 1
+  - m_Path: Reaper_Rig/Shoulder_L/Arm_L/Forearm_L/CentralPalm_L/UpperPalmL_L/Ring1_L/Ring2_L/Ring3_L
+    m_Weight: 1
+  - m_Path: Reaper_Rig/Shoulder_L/Arm_L/Forearm_L/CentralPalm_L/UpperPalmL_L/Ring1_L/Ring2_L/Ring3_L/Ring3_L_end
+    m_Weight: 1
+  - m_Path: Reaper_Rig/Shoulder_L/Arm_L/Forearm_L/CentralPalm_L/UpperPalmR_L
+    m_Weight: 1
+  - m_Path: Reaper_Rig/Shoulder_L/Arm_L/Forearm_L/CentralPalm_L/UpperPalmR_L/IndexL_1
+    m_Weight: 1
+  - m_Path: Reaper_Rig/Shoulder_L/Arm_L/Forearm_L/CentralPalm_L/UpperPalmR_L/IndexL_1/Index2_L
+    m_Weight: 1
+  - m_Path: Reaper_Rig/Shoulder_L/Arm_L/Forearm_L/CentralPalm_L/UpperPalmR_L/IndexL_1/Index2_L/Index3_L
+    m_Weight: 1
+  - m_Path: Reaper_Rig/Shoulder_L/Arm_L/Forearm_L/CentralPalm_L/UpperPalmR_L/IndexL_1/Index2_L/Index3_L/Index3_L_end
+    m_Weight: 1
+  - m_Path: Reaper_Rig/Shoulder_L/Arm_L/Forearm_L/LeftPalm_L
+    m_Weight: 1
+  - m_Path: Reaper_Rig/Shoulder_L/Arm_L/Forearm_L/LeftPalm_L/Pinky1_L
+    m_Weight: 1
+  - m_Path: Reaper_Rig/Shoulder_L/Arm_L/Forearm_L/LeftPalm_L/Pinky1_L/Pinky2_L
+    m_Weight: 1
+  - m_Path: Reaper_Rig/Shoulder_L/Arm_L/Forearm_L/LeftPalm_L/Pinky1_L/Pinky2_L/Pinky3_L
+    m_Weight: 1
+  - m_Path: Reaper_Rig/Shoulder_L/Arm_L/Forearm_L/LeftPalm_L/Pinky1_L/Pinky2_L/Pinky3_L/Pinky3_L_end
+    m_Weight: 1
+  - m_Path: Reaper_Rig/Shoulder_L/Arm_L/Forearm_L/RightPalm_L
+    m_Weight: 1
+  - m_Path: Reaper_Rig/Shoulder_L/Arm_L/Forearm_L/RightPalm_L/Thumb1_L
+    m_Weight: 1
+  - m_Path: Reaper_Rig/Shoulder_L/Arm_L/Forearm_L/RightPalm_L/Thumb1_L/Thumb2_L
+    m_Weight: 1
+  - m_Path: Reaper_Rig/Shoulder_L/Arm_L/Forearm_L/RightPalm_L/Thumb1_L/Thumb2_L/Thumb3_L
+    m_Weight: 1
+  - m_Path: Reaper_Rig/Shoulder_L/Arm_L/Forearm_L/RightPalm_L/Thumb1_L/Thumb2_L/Thumb3_L/Thumb3_L_end
+    m_Weight: 1
+  - m_Path: Reaper_Rig/Shoulder_R
+    m_Weight: 1
+  - m_Path: Reaper_Rig/Shoulder_R/Arm_R
+    m_Weight: 1
+  - m_Path: Reaper_Rig/Shoulder_R/Arm_R/Forearm_R
+    m_Weight: 1
+  - m_Path: Reaper_Rig/Shoulder_R/Arm_R/Forearm_R/CentralPalm_R
+    m_Weight: 1
+  - m_Path: Reaper_Rig/Shoulder_R/Arm_R/Forearm_R/CentralPalm_R/Middle1_R
+    m_Weight: 1
+  - m_Path: Reaper_Rig/Shoulder_R/Arm_R/Forearm_R/CentralPalm_R/Middle1_R/Middle2_R
+    m_Weight: 1
+  - m_Path: Reaper_Rig/Shoulder_R/Arm_R/Forearm_R/CentralPalm_R/Middle1_R/Middle2_R/Middle3_R
+    m_Weight: 1
+  - m_Path: Reaper_Rig/Shoulder_R/Arm_R/Forearm_R/CentralPalm_R/Middle1_R/Middle2_R/Middle3_R/Middle3_R_end
+    m_Weight: 1
+  - m_Path: Reaper_Rig/Shoulder_R/Arm_R/Forearm_R/CentralPalm_R/UpperPalmL_R
+    m_Weight: 1
+  - m_Path: Reaper_Rig/Shoulder_R/Arm_R/Forearm_R/CentralPalm_R/UpperPalmL_R/Index1_R
+    m_Weight: 1
+  - m_Path: Reaper_Rig/Shoulder_R/Arm_R/Forearm_R/CentralPalm_R/UpperPalmL_R/Index1_R/Index2_R
+    m_Weight: 1
+  - m_Path: Reaper_Rig/Shoulder_R/Arm_R/Forearm_R/CentralPalm_R/UpperPalmL_R/Index1_R/Index2_R/Index3_R
+    m_Weight: 1
+  - m_Path: Reaper_Rig/Shoulder_R/Arm_R/Forearm_R/CentralPalm_R/UpperPalmL_R/Index1_R/Index2_R/Index3_R/Index3_R_end
+    m_Weight: 1
+  - m_Path: Reaper_Rig/Shoulder_R/Arm_R/Forearm_R/CentralPalm_R/UpperPalmR_R
+    m_Weight: 1
+  - m_Path: Reaper_Rig/Shoulder_R/Arm_R/Forearm_R/CentralPalm_R/UpperPalmR_R/Ring1_R
+    m_Weight: 1
+  - m_Path: Reaper_Rig/Shoulder_R/Arm_R/Forearm_R/CentralPalm_R/UpperPalmR_R/Ring1_R/Ring2_R
+    m_Weight: 1
+  - m_Path: Reaper_Rig/Shoulder_R/Arm_R/Forearm_R/CentralPalm_R/UpperPalmR_R/Ring1_R/Ring2_R/Ring3_R
+    m_Weight: 1
+  - m_Path: Reaper_Rig/Shoulder_R/Arm_R/Forearm_R/CentralPalm_R/UpperPalmR_R/Ring1_R/Ring2_R/Ring3_R/Ring3_R_end
+    m_Weight: 1
+  - m_Path: Reaper_Rig/Shoulder_R/Arm_R/Forearm_R/LeftPalm_R
+    m_Weight: 1
+  - m_Path: Reaper_Rig/Shoulder_R/Arm_R/Forearm_R/LeftPalm_R/Thumb1_R
+    m_Weight: 1
+  - m_Path: Reaper_Rig/Shoulder_R/Arm_R/Forearm_R/LeftPalm_R/Thumb1_R/Thumb2_R
+    m_Weight: 1
+  - m_Path: Reaper_Rig/Shoulder_R/Arm_R/Forearm_R/LeftPalm_R/Thumb1_R/Thumb2_R/Thumb3_R
+    m_Weight: 1
+  - m_Path: Reaper_Rig/Shoulder_R/Arm_R/Forearm_R/LeftPalm_R/Thumb1_R/Thumb2_R/Thumb3_R/Thumb3_R_end
+    m_Weight: 1
+  - m_Path: Reaper_Rig/Shoulder_R/Arm_R/Forearm_R/RightPalm_R
+    m_Weight: 1
+  - m_Path: Reaper_Rig/Shoulder_R/Arm_R/Forearm_R/RightPalm_R/Pinky1_R
+    m_Weight: 1
+  - m_Path: Reaper_Rig/Shoulder_R/Arm_R/Forearm_R/RightPalm_R/Pinky1_R/Pinky2_R
+    m_Weight: 1
+  - m_Path: Reaper_Rig/Shoulder_R/Arm_R/Forearm_R/RightPalm_R/Pinky1_R/Pinky2_R/Pinky3_R
+    m_Weight: 1
+  - m_Path: Reaper_Rig/Shoulder_R/Arm_R/Forearm_R/RightPalm_R/Pinky1_R/Pinky2_R/Pinky3_R/Pinky3_R_end
+    m_Weight: 1
+  - m_Path: Reaper_Rig/Shoulder_R/Arm_R/Forearm_R/ScytheHandle_2
+    m_Weight: 1
+  - m_Path: Reaper_Rig/Shoulder_R/Arm_R/Forearm_R/ScytheHandle_2/ScytheHandle_1
+    m_Weight: 1
+  - m_Path: Reaper_Rig/Shoulder_R/Arm_R/Forearm_R/ScytheHandle_2/ScytheHandle_1/ScytheHandle_1_end
+    m_Weight: 1
+  - m_Path: Reaper_Rig/Shoulder_R/Arm_R/Forearm_R/ScytheHandle_3
+    m_Weight: 1
+  - m_Path: Reaper_Rig/Shoulder_R/Arm_R/Forearm_R/ScytheHandle_3/ScytheHandle_4
+    m_Weight: 1
+  - m_Path: Reaper_Rig/Shoulder_R/Arm_R/Forearm_R/ScytheHandle_3/ScytheHandle_4/ScytheHandle_5
+    m_Weight: 1
+  - m_Path: Reaper_Rig/Shoulder_R/Arm_R/Forearm_R/ScytheHandle_3/ScytheHandle_4/ScytheHandle_5/ScytheHandle_6
+    m_Weight: 1
+  - m_Path: Reaper_Rig/Shoulder_R/Arm_R/Forearm_R/ScytheHandle_3/ScytheHandle_4/ScytheHandle_5/ScytheHandle_6/ScytheHandle_7
+    m_Weight: 1
+  - m_Path: Reaper_Rig/Shoulder_R/Arm_R/Forearm_R/ScytheHandle_3/ScytheHandle_4/ScytheHandle_5/ScytheHandle_6/ScytheHandle_7/ScytheHandle_8
+    m_Weight: 1
+  - m_Path: Reaper_Rig/Shoulder_R/Arm_R/Forearm_R/ScytheHandle_3/ScytheHandle_4/ScytheHandle_5/ScytheHandle_6/ScytheHandle_7/ScytheHandle_8/ScytheHandle_8_end
+    m_Weight: 1
+  - m_Path: Reaper_Rig/Spine_1
+    m_Weight: 1
+  - m_Path: Reaper_Rig/Spine_1/Spine_2
+    m_Weight: 1
+  - m_Path: Reaper_Rig/Spine_1/Spine_2/Spine_3
+    m_Weight: 0
+  - m_Path: Reaper_Rig/Spine_1/Spine_2/Spine_3/Spine_4
+    m_Weight: 0
+  - m_Path: Reaper_Rig/Spine_1/Spine_2/Spine_3/Spine_4/Spine_4_end
+    m_Weight: 0
